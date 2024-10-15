@@ -98,12 +98,7 @@ public class AdminUI extends JFrame {
 	    lblNewLabel.setOpaque(true); // Enable background visibility
 	    lblNewLabel.setBackground(Color.decode("#4849BF")); // Background color
 	    contentPane.add(lblNewLabel);
-	    
-	 
-	   
-	    
-	    
-
+	
 	    setLocationRelativeTo(null);
 	}
 
